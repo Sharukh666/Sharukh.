@@ -1,2 +1,2 @@
 # Sharukh.
-Projects and Assignments of 92R
+Projects and Assignments of 92R batch
